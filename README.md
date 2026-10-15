@@ -1,9 +1,16 @@
-## Hi there 👋
+## Oi, eu sou a Sthéfany 👋
+
+Eu tenho 16 anos e estou cursando Desenvolvimento de Sistemas no SENAI. No começo eu não pensava em cursar TI, mas com as 
+apresentações de cursos da minha escola, me interessei pela área.
+
+No momento estou aprendendo HTML e CSS e vem sendo a matéria mais legal até o momento.
+
+
 
 <!--
 **sthevick/sthevick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: --
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
